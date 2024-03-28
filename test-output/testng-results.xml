@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-28T22:22:09 IST" name="Suite" finished-at="2024-03-28T22:22:09 IST" duration-ms="55">
+    <groups>
+    </groups>
+    <test started-at="2024-03-28T22:22:09 IST" name="Test" finished-at="2024-03-28T22:22:09 IST" duration-ms="55">
+      <class name="loanDepartment.CarLoan">
+        <test-method signature="hl1()[pri:0, instance:loanDepartment.CarLoan@7c469c48]" started-at="2024-03-28T22:22:09 IST" name="hl1" finished-at="2024-03-28T22:22:09 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hl1 -->
+        <test-method signature="hl2()[pri:0, instance:loanDepartment.CarLoan@7c469c48]" started-at="2024-03-28T22:22:09 IST" name="hl2" finished-at="2024-03-28T22:22:09 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hl2 -->
+      </class> <!-- loanDepartment.CarLoan -->
+      <class name="loanDepartment.PersonalLoan">
+        <test-method signature="hl1()[pri:0, instance:loanDepartment.PersonalLoan@54c562f7]" started-at="2024-03-28T22:22:09 IST" name="hl1" finished-at="2024-03-28T22:22:09 IST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hl1 -->
+        <test-method signature="hl2()[pri:0, instance:loanDepartment.PersonalLoan@54c562f7]" started-at="2024-03-28T22:22:09 IST" name="hl2" finished-at="2024-03-28T22:22:09 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hl2 -->
+      </class> <!-- loanDepartment.PersonalLoan -->
+      <class name="loanDepartment.HomeLoan">
+        <test-method signature="hl1()[pri:0, instance:loanDepartment.HomeLoan@51e5fc98]" started-at="2024-03-28T22:22:09 IST" name="hl1" finished-at="2024-03-28T22:22:09 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hl1 -->
+        <test-method signature="hl2()[pri:0, instance:loanDepartment.HomeLoan@51e5fc98]" started-at="2024-03-28T22:22:09 IST" name="hl2" finished-at="2024-03-28T22:22:09 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hl2 -->
+      </class> <!-- loanDepartment.HomeLoan -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
