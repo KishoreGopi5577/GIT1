@@ -9,10 +9,7 @@ public class CarLoan {
 		System.out.println("CarLoan1");
 	}
 	
-	@Test
-	public void hl2() {
-		System.out.println("CarLoan2");
-	}
+	
 
 	
 
